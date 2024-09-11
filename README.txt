@@ -1,6 +1,6 @@
-JohnDoe Free Bootstrap landing page for personal and commercial use. Designed with ♥️ and creativity by Devcrud.com 
+Brayan Sonco Machaca para el examen de emergentes II de la carrera de ingenieria de sistemas creado por fines educativos.
 
-Product Page: https://wwww.devcrud.com/
+Product Page: https://wwww.brayansonco.com/
 
 Credits:
 
